@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.rizkyrazak.tugas_sensorgps_10119118", appContext.getPackageName());
+        assertEquals("com.bintang.tugas_sensorgps_10120167", appContext.getPackageName());
     }
 }
